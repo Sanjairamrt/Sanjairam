@@ -1,0 +1,143 @@
+.box{
+    border: 1px solid;
+    width: 100%;
+    height: 800px;
+    background-image: url(sssmin.jpg);
+    background-size: cover;
+    
+    
+}
+.ty{
+    display: flex;
+}
+.r1{
+    border: 1px solid ;
+    width: 300px;
+    height: 300px;
+    background-color: antiquewhite;
+    margin-left: 600px;
+    margin-top: 50px;
+    text-align: center;
+    
+    
+    
+
+    
+}
+.r2{
+    border: 1px solid ;
+    width:300px;
+    height: 300px;
+    background-color: antiquewhite;
+    margin-top: 50px;
+    margin-left: 30px;
+    text-align: center;
+
+    
+}
+.r3{
+    border: 1px solid;
+    width: 300px ;
+    height: 300px;
+    background-color: antiquewhite;
+    margin-left: 600px;
+    margin-top: 30px;
+    text-align: center;
+
+}
+.r4{
+    border: 1px solid;
+    width: 300px ;
+    height: 300px;
+    background-color: antiquewhite;
+    margin-left: 930px;
+    margin-top: -300px;
+    text-align: center;
+}
+.n1{
+    margin-top: 20px;
+    padding-right: 10px;
+     
+}
+.n2{
+    margin-top: 20px;
+}
+.n3{
+    margin-top: 20px;
+
+}
+.n4{
+    margin-top: 20px;
+}
+.e4{
+padding-top: 17px;
+
+}
+    
+  .better{
+    margin-top: 23px;
+    border: 1px solid ;
+    border-radius: 100px;
+    width: 78px;
+    height:78px;
+    margin-left: 100px;
+    background-color: orangered;
+    
+  }
+  .harsh{
+    
+        margin-top: 23px;
+        border: 1px solid ;
+        border-radius: 100px;
+        width: 78px;
+        height:78px;
+        margin-left: 100px;
+        background-color: orangered;
+        
+      
+    
+  }
+  .ravi{
+    
+        margin-top: 23px;
+        border: 1px solid ;
+        border-radius: 100px;
+        width: 78px;
+        height:78px;
+        margin-left: 100px;
+        background-color: orangered;
+        
+      
+    
+  }
+  .ragu{
+    
+        margin-top: 23px;
+        border: 1px solid ;
+        border-radius: 100px;
+        width: 78px;
+        height:78px;
+        margin-left: 100px;
+        background-color: orangered;
+        
+      
+    
+  }
+  .manju{
+    font-size: 20px;
+  }
+  .sm{
+    padding-top: 20px;
+  }
+  .km{
+    padding-top: 17px;
+  }
+  .am{
+    padding-top: 14px;
+  }
+
+    
+
+   
+
+
